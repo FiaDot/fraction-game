@@ -118,3 +118,11 @@ iPad Air 4 가로 모드 + PC 브라우저에서 플레이.
 - iPad Air 4 가로 모드에서 레이아웃 확인
 - PC 브라우저에서 레이아웃 확인
 - +/- 스피너 버튼 동작 확인
+
+---
+
+## 배포
+
+- **GitHub Pages URL**: https://fiadot.github.io/fraction-game/
+- 저장소: `git@github.com:FiaDot/fraction-game.git`
+- `main` 브랜치에서 자동 배포 (Settings → Pages → Deploy from a branch)
